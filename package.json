@@ -1,0 +1,14 @@
+{
+  "name": "arrow-twist-privacy-policy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official Privacy Policy Website for Arrow Twist game listing (Google Play Store & App Store compliant)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
